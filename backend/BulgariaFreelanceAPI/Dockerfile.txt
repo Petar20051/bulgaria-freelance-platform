@@ -1,0 +1,22 @@
+# Use the official .NET SDK image for building the application
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+WORKDIR /src
+
+# Copy csproj and restore dependencies as separate layers
+COPY *.csproj ./
+RUN dotnet restore
+
+# Copy the rest of the application code and build it
+COPY . .
+RUN dotnet publish -c Release -o /app
+
+# Use the ASP.NET Core runtime image for the final stage
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
+WORKDIR /app
+COPY --from=build /app .
+
+# Expose port 80 for the application
+EXPOSE 80
+
+# Start the application
+ENTRYPOINT ["dotnet", "BulgariaFreelanceAPI.dll"]

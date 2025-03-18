@@ -1,0 +1,12 @@
+/* stylelint-disable at-rule-no-unknown */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* stylelint-enable at-rule-no-unknown */
+
+/* You can add your custom global styles below */
+body {
+  /* For example, set a default background and font */
+  background-color: #f9fafb;
+  font-family: 'Inter', sans-serif;
+}

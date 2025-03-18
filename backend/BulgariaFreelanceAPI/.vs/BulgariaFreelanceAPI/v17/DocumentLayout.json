@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|c:\\users\\petar\\bulgaria-freelance-platform\\backend\\bulgariafreelanceapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|c:\\users\\petar\\bulgaria-freelance-platform\\backend\\bulgariafreelanceapi\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|solutionrelative:services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|c:\\users\\petar\\bulgaria-freelance-platform\\backend\\bulgariafreelanceapi\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|c:\\users\\petar\\bulgaria-freelance-platform\\backend\\bulgariafreelanceapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|c:\\users\\petar\\bulgaria-freelance-platform\\backend\\bulgariafreelanceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|c:\\users\\petar\\bulgaria-freelance-platform\\backend\\bulgariafreelanceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|c:\\users\\petar\\bulgaria-freelance-platform\\backend\\bulgariafreelanceapi\\bulgariafreelanceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{422A3A01-E88B-4F88-A6A4-E68705EA3F99}|BulgariaFreelanceAPI.csproj|solutionrelative:bulgariafreelanceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:31:44.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:30:28.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAcwO4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:03:01.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T18:41:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BulgariaFreelanceAPI",
+              "DocumentMoniker": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\BulgariaFreelanceAPI.csproj",
+              "RelativeDocumentMoniker": "BulgariaFreelanceAPI.csproj",
+              "ToolTip": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\BulgariaFreelanceAPI.csproj",
+              "RelativeToolTip": "BulgariaFreelanceAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T18:30:03.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAF4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:24:46.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\petar\\bulgaria-freelance-platform\\backend\\BulgariaFreelanceAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:39:04.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
